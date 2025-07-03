@@ -1,0 +1,13 @@
+# Folder Visual Studio cache (harus diabaikan)
+.vs/
+
+# Folder hasil build
+bin/
+obj/
+
+# File build lain
+*.exe
+*.dll
+*.pdb
+*.suo
+*.user
